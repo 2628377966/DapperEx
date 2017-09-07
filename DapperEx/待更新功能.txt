@@ -1,0 +1,4 @@
+﻿2017-3-8   待更新功能
+1、插入sql 加入联合主键类型的
+2、DbBase 扩展加入执行原生Dapper的功能
+3、可参考DBHelperDapper功能 融合到一起（另建扩展DbBase）
