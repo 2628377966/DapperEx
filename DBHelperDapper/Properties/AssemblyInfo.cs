@@ -8,10 +8,10 @@ using System.Runtime.InteropServices;
 [assembly: AssemblyTitle("DBHelperDapper")]
 [assembly: AssemblyDescription("DBHelperDapper")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("DBHelperDapper")]
+[assembly: AssemblyCompany("Harbour")]
 [assembly: AssemblyProduct("DBHelperDapper")]
 [assembly: AssemblyCopyright("Copyright ©Harbour  2016")]
-[assembly: AssemblyTrademark("")]
+[assembly: AssemblyTrademark("Harbour")]
 [assembly: AssemblyCulture("")]
 
 // 将 ComVisible 设置为 false 使此程序集中的类型
